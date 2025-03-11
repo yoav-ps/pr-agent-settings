@@ -3,9 +3,12 @@ handle_push_trigger = true
 push_commands = [
     "/describe",
     "/review",
+]
+
 pr_commands = [
     "/describe",
     "/review",
     "/improve",
 ]
+
 generate_ai_title = true
