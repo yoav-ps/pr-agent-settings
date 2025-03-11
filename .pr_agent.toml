@@ -3,14 +3,9 @@ handle_push_trigger = true
 push_commands = [
     "/describe",
     "/review",
-]
-
-[github_app]
 pr_commands = [
     "/describe",
     "/review",
     "/improve",
 ]
-
-[pr_description]
 generate_ai_title = true
